@@ -1,6 +1,6 @@
-# ⚡ High-Scale Energy Ingestion Engine
+# High-Scale Energy Ingestion Engine
 
-## 🚀 Overview
+## Overview
 
 This project implements a scalable telemetry ingestion and analytics backend for vehicle and energy systems. It ingests high-frequency vehicle and meter telemetry, stores both real-time and historical data, and exposes analytics APIs to compute performance metrics over the last 24 hours.
 
@@ -8,7 +8,7 @@ The goal of this project is to demonstrate backend system design, ingestion pipe
 
 ---
 
-## 🏗 Tech Stack
+## Tech Stack
 
 - Node.js
 - NestJS
@@ -18,7 +18,7 @@ The goal of this project is to demonstrate backend system design, ingestion pipe
 
 ---
 
-## 🧠 Architecture Decisions
+## Architecture Decisions
 
 ### Modular Design (NestJS)
 The application is divided into feature modules:
