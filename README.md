@@ -74,5 +74,5 @@ Docker Compose orchestrates both services for simple local setup.
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
