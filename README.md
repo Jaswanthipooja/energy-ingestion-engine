@@ -72,7 +72,3 @@ The system runs fully inside Docker:
 
 Docker Compose orchestrates both services for simple local setup.
 
----
-
-## Project Structure
-
